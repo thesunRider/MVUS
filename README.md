@@ -1,2 +1,2 @@
-# UWComm
+# MVUS
 Underwater communication device
