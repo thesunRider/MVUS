@@ -1,4 +1,4 @@
-## MVUS (Messaging and voice for Underwater Systems MVUS)
+# MVUS (Messaging and voice for Underwater Systems MVUS)
 
 ## Docs
 Problem Statement: [[Problem Statement]]
