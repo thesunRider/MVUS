@@ -1,8 +1,11 @@
 # MVUS (Messaging and voice for Underwater Systems MVUS)
 
+<img src="documentation/images/diver_front.jpg?raw=true" width="80%">
+
 ## Docs
-Problem Statement: [[Problem Statement]]
-Questionaire: [[Questionare]]
+Problem Statement: [Problem Statement](Problem_Statement.md)
+
+Questionaire: [Questionare](Questionare.md)
 
 
 ### Requested Specifications:
